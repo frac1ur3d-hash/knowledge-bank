@@ -27,10 +27,55 @@
     "local_path": ""
   },
   {
+    "full_name": "google-gemini/gemini-cli",
+    "url": "https://github.com/google-gemini/gemini-cli",
+    "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+    "stars": 108848,
+    "domain": "AI & Autonomous Agents",
+    "tags": "",
+    "local_path": ""
+  },
+  {
     "full_name": "OpenHands/OpenHands",
     "url": "https://github.com/OpenHands/OpenHands",
     "description": "Autonomous AI software engineer capable of writing code and orchestrating dev tasks.",
     "stars": 93500,
+    "domain": "AI & Autonomous Agents",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "description": "\ud83c\udf0a The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "stars": 81792,
+    "domain": "AI & Autonomous Agents",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "upstash/context7",
+    "url": "https://github.com/upstash/context7",
+    "description": "Context7 Platform -- Up-to-date docs for AI agents",
+    "stars": 64855,
+    "domain": "AI & Autonomous Agents",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "stars": 56783,
+    "domain": "AI & Autonomous Agents",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "DeusData/codebase-memory-mcp",
+    "url": "https://github.com/DeusData/codebase-memory-mcp",
+    "description": "Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.",
+    "stars": 48675,
     "domain": "AI & Autonomous Agents",
     "tags": "",
     "local_path": ""
@@ -63,6 +108,24 @@
     "local_path": ""
   },
   {
+    "full_name": "mortdeus/solana-copy-sniper-mev-trading-bot",
+    "url": "https://github.com/mortdeus/solana-copy-sniper-mev-trading-bot",
+    "description": "\ud83c\udd93Free High speed solana mev arbitrage Sniper Copy Trading Bot, gRPC shred stream Pumpfun Bundler, Pumpfun Contract, Yellowston Geyser,  token launcher, AI raydium pool creator, volume, sandwich, raydium swap bot, pumpswap auto Volume, Maker bot, 0xblock, best 0 block solana trading bot solana trading bot solana trading bot solana trading bot",
+    "stars": 4518,
+    "domain": "AI & Autonomous Agents",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "stars": 210565,
+    "domain": "Cloud, Infra & Free Tiers",
+    "tags": "",
+    "local_path": ""
+  },
+  {
     "full_name": "ripienaar/free-for-dev",
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "Exhaustive list of SaaS, PaaS and IaaS offerings that have free tiers for devs.",
@@ -70,6 +133,24 @@
     "domain": "Cloud, Infra & Free Tiers",
     "tags": "",
     "local_path": "E:/skills-repos/free-for-dev"
+  },
+  {
+    "full_name": "koala73/worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "stars": 90694,
+    "domain": "Cloud, Infra & Free Tiers",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "sansan0/TrendRadar",
+    "url": "https://github.com/sansan0/TrendRadar",
+    "description": "\u2b50AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.\ud83c\udfaf \u544a\u522b\u4fe1\u606f\u8fc7\u8f7d\uff0c\u4f60\u7684 AI \u8206\u60c5\u76d1\u63a7\u52a9\u624b\u4e0e\u70ed\u70b9\u7b5b\u9009\u5de5\u5177\uff01\u805a\u5408\u591a\u5e73\u53f0\u70ed\u70b9 +  RSS \u8ba2\u9605\uff0c\u652f\u6301\u5173\u952e\u8bcd\u7cbe\u51c6\u7b5b\u9009\u3002AI \u667a\u80fd\u7b5b\u9009\u65b0\u95fb + AI \u7ffb\u8bd1 +  AI \u5206\u6790\u7b80\u62a5\u76f4\u63a8\u624b\u673a\uff0c\u4e5f\u652f\u6301\u63a5\u5165 MCP \u67b6\u6784\uff0c\u8d4b\u80fd AI \u81ea\u7136\u8bed\u8a00\u5bf9\u8bdd\u5206\u6790\u3001\u60c5\u611f\u6d1e\u5bdf\u4e0e\u8d8b\u52bf\u9884\u6d4b\u7b49\u3002\u652f\u6301 Docker \uff0c\u6570\u636e\u672c\u5730/\u4e91\u7aef\u81ea\u6301\u3002\u96c6\u6210\u5fae\u4fe1/\u98de\u4e66/\u9489\u9489/Telegram/\u90ae\u4ef6/ntfy/bark/slack \u7b49\u6e20\u9053\u667a\u80fd\u63a8\u9001\u3002",
+    "stars": 63645,
+    "domain": "Cloud, Infra & Free Tiers",
+    "tags": "",
+    "local_path": ""
   },
   {
     "full_name": "mrdoob/three.js",
@@ -90,6 +171,15 @@
     "local_path": ""
   },
   {
+    "full_name": "goldfire/howler.js",
+    "url": "https://github.com/goldfire/howler.js",
+    "description": "Javascript audio library for the modern web.",
+    "stars": 25446,
+    "domain": "Creative, Audio & GameDev",
+    "tags": "",
+    "local_path": ""
+  },
+  {
     "full_name": "Tonejs/Tone.js",
     "url": "https://github.com/Tonejs/Tone.js",
     "description": "A Web Audio framework for making interactive music in the browser.",
@@ -99,10 +189,55 @@
     "local_path": ""
   },
   {
+    "full_name": "katspaugh/wavesurfer.js",
+    "url": "https://github.com/katspaugh/wavesurfer.js",
+    "description": "Audio waveform player",
+    "stars": 10473,
+    "domain": "Creative, Audio & GameDev",
+    "tags": "",
+    "local_path": ""
+  },
+  {
     "full_name": "makepad/makepad",
     "url": "https://github.com/makepad/makepad",
     "description": "Next-gen hybrid vector-based 2D/3D visual studio and UI framework in Rust.",
     "stars": 6000,
+    "domain": "Creative, Audio & GameDev",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "serversideup/amplitudejs",
+    "url": "https://github.com/serversideup/amplitudejs",
+    "description": "AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.",
+    "stars": 4321,
+    "domain": "Creative, Audio & GameDev",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "freeman-jiang/beatsync",
+    "url": "https://github.com/freeman-jiang/beatsync",
+    "description": "\ud83d\udd0a High-precision web player for multi-device audio playback and spatial audio.",
+    "stars": 3225,
+    "domain": "Creative, Audio & GameDev",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "chaosprint/glicol",
+    "url": "https://github.com/chaosprint/glicol",
+    "description": "Graph-oriented live coding language and music/audio DSP library written in Rust",
+    "stars": 3021,
+    "domain": "Creative, Audio & GameDev",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "gridsound/daw",
+    "url": "https://github.com/gridsound/daw",
+    "description": "GridSound (2.60.0) is a work-in-progress free browser-based digital audio workstation following the Web Audio API \ud83c\udf9b\ud83c\udfb9\ud83c\udfb5\u2728 -- If you can, please sponsor us a little on our Patreon \u2764\ufe0f",
+    "stars": 1899,
     "domain": "Creative, Audio & GameDev",
     "tags": "",
     "local_path": ""
@@ -119,8 +254,8 @@
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
-    "description": "A list of useful payloads and bypass for Web Application Security and Pentest.",
-    "stars": 63000,
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "stars": 82688,
     "domain": "Cybersecurity & Red Teaming",
     "tags": "",
     "local_path": ""
@@ -153,6 +288,24 @@
     "local_path": ""
   },
   {
+    "full_name": "bettercap/bettercap",
+    "url": "https://github.com/bettercap/bettercap",
+    "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+    "stars": 20295,
+    "domain": "Cybersecurity & Red Teaming",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "laramies/theHarvester",
+    "url": "https://github.com/laramies/theHarvester",
+    "description": "E-mails, subdomains and names Harvester - OSINT ",
+    "stars": 18327,
+    "domain": "Cybersecurity & Red Teaming",
+    "tags": "",
+    "local_path": ""
+  },
+  {
     "full_name": "ffuf/ffuf",
     "url": "https://github.com/ffuf/ffuf",
     "description": "Fast web fuzzer written in Go for discovering endpoints, vhosts, and parameters.",
@@ -162,10 +315,28 @@
     "local_path": ""
   },
   {
+    "full_name": "GTFOBins/GTFOBins.github.io",
+    "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+    "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+    "stars": 13862,
+    "domain": "Cybersecurity & Red Teaming",
+    "tags": "",
+    "local_path": ""
+  },
+  {
     "full_name": "kamranahmedse/developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Interactive roadmaps, guides and other educational content for developers.",
     "stars": 310000,
+    "domain": "Developer Tooling & Systems",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "description": "\ud83d\udd77\ufe0f The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
+    "stars": 103260,
     "domain": "Developer Tooling & Systems",
     "tags": "",
     "local_path": ""
@@ -193,6 +364,60 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "Curated list of awesome lists covering every software ecosystem.",
     "stars": 350000,
+    "domain": "General Knowledge & Utilities",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "Hunt down social media accounts by username across social networks",
+    "stars": 112330,
+    "domain": "General Knowledge & Utilities",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "reactive-resume/reactive-resume",
+    "url": "https://github.com/reactive-resume/reactive-resume",
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "stars": 45781,
+    "domain": "General Knowledge & Utilities",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "soxoj/maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from 6K websites",
+    "stars": 40737,
+    "domain": "General Knowledge & Utilities",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "maurosoria/dirsearch",
+    "url": "https://github.com/maurosoria/dirsearch",
+    "description": "Web path scanner",
+    "stars": 15081,
+    "domain": "General Knowledge & Utilities",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "edoardottt/awesome-hacker-search-engines",
+    "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
+    "description": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
+    "stars": 11515,
+    "domain": "General Knowledge & Utilities",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "tidalcycles/strudel",
+    "url": "https://github.com/tidalcycles/strudel",
+    "description": "MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript",
+    "stars": 3047,
     "domain": "General Knowledge & Utilities",
     "tags": "",
     "local_path": ""
@@ -227,8 +452,62 @@
   {
     "full_name": "flashbots/mev-boost",
     "url": "https://github.com/flashbots/mev-boost",
-    "description": "MEV-Boost is a service for validators to outsource block building to a network of builders.",
+    "description": "MEV-Boost allows Ethereum validators to source high-MEV blocks from a competitive builder marketplace",
     "stars": 1500,
+    "domain": "Web3, Blockchain & MEV",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "dcbuild3r/blockchain-development-guide",
+    "url": "https://github.com/dcbuild3r/blockchain-development-guide",
+    "description": "Devpill.me - A Public Good Blockchain Development Guide",
+    "stars": 1343,
+    "domain": "Web3, Blockchain & MEV",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "cypherpunk-symposium/dark-forest-toolkit",
+    "url": "https://github.com/cypherpunk-symposium/dark-forest-toolkit",
+    "description": "\ud83d\udc7e notes and resources on blockchain's maximal extractable value (MEV): on the hope of non-predatory free markets in the metaweb",
+    "stars": 1115,
+    "domain": "Web3, Blockchain & MEV",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "berachain/polaris",
+    "url": "https://github.com/berachain/polaris",
+    "description": "Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.",
+    "stars": 1071,
+    "domain": "Web3, Blockchain & MEV",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "lawmaster10/howcryptoworksbook",
+    "url": "https://github.com/lawmaster10/howcryptoworksbook",
+    "description": "A free, open-source book that explains how crypto actually works. 15 chapters covering Bitcoin, Ethereum, Solana, DeFi, MEV, market structure, custody, stablecoins, governance, quantum resistance, and prediction markets.",
+    "stars": 900,
+    "domain": "Web3, Blockchain & MEV",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "mouseless0x/rusty-sando",
+    "url": "https://github.com/mouseless0x/rusty-sando",
+    "description": "Implementation of a competitive v2/v3 multi-meat MEV sandwich bot written using Rust and Huff.",
+    "stars": 868,
+    "domain": "Web3, Blockchain & MEV",
+    "tags": "",
+    "local_path": ""
+  },
+  {
+    "full_name": "jito-foundation/jito-solana",
+    "url": "https://github.com/jito-foundation/jito-solana",
+    "description": "Jito Foundation MEV Solana Client",
+    "stars": 771,
     "domain": "Web3, Blockchain & MEV",
     "tags": "",
     "local_path": ""
