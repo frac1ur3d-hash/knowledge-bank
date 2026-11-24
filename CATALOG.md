@@ -1,7 +1,7 @@
 # ⚡ Universal Knowledge Bank & GitHub Catalog ⚡
 
 > Autonomous knowledge vault, repository indexer, and deployment engine.
-> **Total Repositories Indexed**: `58`
+> **Total Repositories Indexed**: `59`
 
 ---
 
@@ -97,3 +97,9 @@
 | [mouseless0x/rusty-sando](https://github.com/mouseless0x/rusty-sando) | ⭐ 868 | Implementation of a competitive v2/v3 multi-meat MEV sandwich bot written using Rust and Huff. | `🌐 Remote` |
 | [jito-foundation/jito-solana](https://github.com/jito-foundation/jito-solana) | ⭐ 771 | Jito Foundation MEV Solana Client | `🌐 Remote` |
 | [frac1ur3d-hash/Aether-MEV-Core](https://github.com/frac1ur3d-hash/Aether-MEV-Core) | ⭐ 1 | Aether Dynamics Flash Arbitrage Router and EVM Mempool Scanner. | `🌐 Remote` |
+
+## 📁 agent-skills (`1` repos)
+
+| Repository | Stars | Description | Status / Action |
+|---|---|---|---|
+| [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | - |  | `🌐 Remote` |

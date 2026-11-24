@@ -520,5 +520,14 @@
     "domain": "Web3, Blockchain & MEV",
     "tags": "",
     "local_path": ""
+  },
+  {
+    "full_name": "sickn33/agentic-awesome-skills",
+    "url": "https://github.com/sickn33/agentic-awesome-skills",
+    "description": "",
+    "stars": 0,
+    "domain": "agent-skills",
+    "tags": "skills,playbooks,agentic,codex,claude,antigravity",
+    "local_path": ""
   }
 ]
